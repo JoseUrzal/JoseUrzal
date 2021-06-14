@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JoseUrzal
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on any kind of projects which can develop my programming skills
+- 👋  Hi, I’m @JoseUrzal
+- 👀  I’m interested in Web Development
+- 🌱  I’m currently learning React.js
+- 💞️  I’m looking to collaborate on any kind of projects which can develop my programming skills
 - 📫 joseurzalmagalhaes@gmail.com
 
 <!---
